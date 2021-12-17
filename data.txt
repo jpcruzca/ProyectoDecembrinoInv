@@ -1,0 +1,27 @@
+Quantum Monte Carlo Simulation of 12 Helium-4 Atoms on a Graphite Surface
+Diffusion Simulation with Parameters:
+I_QMC = 2
+I_SAVE = 1
+I_CORRELATION = 0
+I_PAIR = 2
+N_ENSEMBLE = 300
+N_GROUP = 10
+N_FREQUENCE = 5
+N_SIZE = 10
+N_EQUILIBRIUM = 50
+AX = 4.257601
+DX = 0.35
+DT = 0.002
+DR = 0.15
+kappa = 0.1
+zeta = 2.85
+z0 = 0.521
+r0 = 15.0
+a  = 2.770844
+b  = 0.0
+c  = 0.0
+The random number initial seed is: 1306205381
+Energy/atom =  -146.68524244191966 +- 1.7144342483232637 K
+Variance from groups = 1.5902702015072971 K
+K_Energy/atom =  16.3116389562843 +- 2.3409612556105723 K
+Variance from groups = 2.130443408145146 K

@@ -1,0 +1,28 @@
+           iq           is           ic           ig         dn
+           ng           nf           ns           nr         dr
+           ax           dx           dt           ka         ze
+           z0           r0           a            b          c
+
+iq: Control parameter for variational (1) or diffusion (2) simulation.
+is: Control parameter for saving (1 or 2) or reading in (2) data.
+ic: Control parameter for auto correlation if not equal to 0;
+ig: Control parameter for pair-distribution if not equal to 0;
+dn: The change allowed in the number of configurations in the ensemble.
+
+ng: Number of groups used is gathering data.
+nf: Number of Monte Carlo steps skipped between two adjacent data points.
+ns: Number of data points in each group of data.
+nr: Number of Monte Carlo steps in the equilibration runs.
+dr: Spacing size in the pair-distribution function.
+
+ax: x-increment for setting up the initial configuration.
+dx: Twice of the Metropolis step size in x-direction.
+dt: Time step in the diffusion move.
+ka: Parameter kappa used in branching.
+ze: parameter z_e in the single-particle wavefunction.
+
+z0: Parameter z_0 in the single-particle wavefunction.
+r0: Parameter r_0 in the single-particle wavefunction.
+a: Parameter a in the Jastrow factor.
+b: Parameter b in the Jastrow factor.
+c: Parameter c in the Jastrow factor.
